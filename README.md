@@ -1,5 +1,6 @@
-# Numerical_Analysis
-Numerical Analysis
+# Numerical Analysis
+
+---
 
 # implemented technologies
 
