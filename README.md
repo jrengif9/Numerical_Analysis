@@ -11,5 +11,5 @@
   - SciPy library
   - Matplotlib
   - IPython
-  - Sympy
+  - Sympy - [Symbolic Mathematics in Python]( https://www.scipy-lectures.org/advanced/sympy.html "Chapters")
   - Pandas
