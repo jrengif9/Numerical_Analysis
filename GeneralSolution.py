@@ -1,31 +1,35 @@
-
 #First we have to import all the necessary modules and functions
 import matplotlib.pyplot as plt
+from scipy import *
+from sympy import *
 from matplotlib.animation import FuncAnimation
-from numpy import *
 import pandas as pd
 import numpy as np
 
-
+x = Symbol("x")
 # INPUT. values that user have to enter manually
-l = 1               # Endpont
-t = 1               # Maximun Time
-alpha = 2           # constant: 1/v  v:propagation speed
-m = 10              # number of rows, 
-n = 20              # number of columns
+f = input("Enter u(x,0): ")
+g = input("Enter du/dy(x,0): ")
+l = input("Enter endpoint: ")             # Endpont
+t = input("Enter Maximum Time: ")         # Maximun Time
+alpha = input("Enter alpha constan: ")    # constant: 1/v  v:propagation speed
+m = int(input("Enter m value: "))              # number of rows, 
+n = int(input("Enter n value: "))              # number of columns
+
 
 h = float(l)/float(m)
 k = float(t)/float(n)
-lam = (k*alpha)/h
+lam = (k*float(alpha))/h
 
-#function f
-def funf(num):
-    return sin(pi * num)
-    #return np.sin(np.pi * num)
 
-#function g
-def fung(num):
-    return 0
+def evalfun(fun,num):
+    if "x" in str(fun):
+        val = float(eval(str(fun.replace("x",str(num)))))
+    else:   
+        val = float(fun)
+
+    return val
+
 
 #Create a matriz of m+1 rows and n+1 columns, cause it starst from zero
 matrix = np.zeros(shape=(m+1,n+1))
@@ -37,14 +41,14 @@ for j in range (1,n+1):
 
 
 # Step 3
-matrix[0][0] = funf(0)
-matrix[m][0] = funf(l)
+matrix[0][0] = evalfun(f,0)
+matrix[m][0] = evalfun(f,l)
 
 
 # Step 4 - Initialize for t = 0 and t=k
 for i in range(1,m):
-    matrix[i][0] = funf(i*h)
-    matrix[i][1] = (1-lam**2)*funf(i*h) + ((lam**2)/2)*(funf((i+1)*h) + funf((i-1)*h)) + (k*fung(i*h))
+    matrix[i][0] = evalfun(f,i*h)
+    matrix[i][1] = (1-lam**2)*evalfun(f,i*h) + ((lam**2)/2)*(evalfun(f,(i+1)*h) + evalfun(f,(i-1)*h)) + (k*evalfun(g,i*h))
 
 
 # Step 5 - Perform Matrix Multiplication
@@ -76,15 +80,15 @@ ydata = zeros(m+1)                 # Create an array to the points in y axis
 ln, = plt.plot([], [], 'r', animated=True)
 
 def init():
-	ax.set_xlim(0, 1)
-	ax.set_ylim(-1.1, 1.1)
-	ln.set_data(xdata,ydata)
-	return ln,
+    ax.set_xlim(0, 1)
+    ax.set_ylim(-1.1, 1.1)
+    ln.set_data(xdata,ydata)
+    return ln,
 
 def update(frame):
     for i in range(0,m+1):
         ydata[i] = matrix[i][frame]  # itearate trough the matrix to change the value for each frame
-	ln.set_data(xdata, ydata)
+    ln.set_data(xdata, ydata)
     return ln,
 
 ani = FuncAnimation(fig, update, frames=n+1,
