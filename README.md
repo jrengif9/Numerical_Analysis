@@ -33,6 +33,14 @@
 
 ### Finite Differences Method
 
+To approximate the solution to the wave equation
+
+[EqAproxFiniteDifference.png](https://github.com/jrengif9/Numerical_Analysis/blob/master/images/EqAproxFiniteDifference.png "EqAproxFiniteDifference.png")
+
+subject to the boundary conditions
+
+and the initial conditions
+
 #### Examples 
 
 
@@ -54,6 +62,6 @@
   - Pandas
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDg4NjM5NDMsLTE2NDMyMDgwMTIsOD
-Y4MjE3MzcwLC04Nzc1MzA5OTZdfQ==
+eyJoaXN0b3J5IjpbMTk5ODA4ODIwMiwtMTM0ODg2Mzk0MywtMT
+Y0MzIwODAxMiw4NjgyMTczNzAsLTg3NzUzMDk5Nl19
 -->
