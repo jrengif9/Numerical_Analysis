@@ -11,7 +11,9 @@
 
 ## Members
 
-**Students**
+**Teacher manager**
+
+**student researchers**
 - Brian F. Morales A.
 - Jose A. Carvajal B.
 - José O. Rengifo C.
@@ -33,6 +35,6 @@
   - Pandas
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNjUxNjEwMyw4NjgyMTczNzAsLTg3Nz
-UzMDk5Nl19
+eyJoaXN0b3J5IjpbLTExMDQwMjU4NzYsODY4MjE3MzcwLC04Nz
+c1MzA5OTZdfQ==
 -->
