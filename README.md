@@ -33,9 +33,13 @@
 
 ### Finite Differences Method
 
+#### Examples 
+
+
+
 ### Fourier Method
 
-### 
+### Finite Elements Method 
 
 ## Implemented technologies
 
@@ -50,6 +54,6 @@
   - Pandas
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNjY3MjM3LC0xNjQzMjA4MDEyLDg2OD
-IxNzM3MCwtODc3NTMwOTk2XX0=
+eyJoaXN0b3J5IjpbLTEzNDg4NjM5NDMsLTE2NDMyMDgwMTIsOD
+Y4MjE3MzcwLC04Nzc1MzA5OTZdfQ==
 -->
