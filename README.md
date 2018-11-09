@@ -13,10 +13,9 @@
 	- Python v7
 	- SciPy ecosystem
 - [Methods for the numerical solution of the wave equation](#Methods-for-the-numerical-solution-of-the-wave-equation)
-	- Finite-Difference Method
-	- 
-	- Fourier Method
-
+	- [Finite Differences Method]()
+	- [Fourier Method
+	- Finite Elements Method
 
 ## Members
 
@@ -34,9 +33,9 @@
 
 ### Finite Differences Method
 
-### 
-
 ### Fourier Method
+
+### 
 
 ## Implemented technologies
 
@@ -51,6 +50,6 @@
   - Pandas
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2OTE5NTc1MSwtMTY0MzIwODAxMiw4Nj
+eyJoaXN0b3J5IjpbMTQwNjUzMDgxNCwtMTY0MzIwODAxMiw4Nj
 gyMTczNzAsLTg3NzUzMDk5Nl19
 -->
