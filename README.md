@@ -48,9 +48,9 @@ and the initial conditions
 #### Examples 
 
 1. 
-	- 
-	-  
-	- 
+	- Approximate the solution to the wave equation
+	-  Boundary conditions
+	- Initial conditions
 2. 
 	- 
 	-  
@@ -87,7 +87,7 @@ and the initial conditions
   - Pandas
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNjg4MjE2MSwyNzA1NTAwNzUsLTEzND
-g4NjM5NDMsLTE2NDMyMDgwMTIsODY4MjE3MzcwLC04Nzc1MzA5
-OTZdfQ==
+eyJoaXN0b3J5IjpbLTEwMDc0NzgwNDAsLTYzNjg4MjE2MSwyNz
+A1NTAwNzUsLTEzNDg4NjM5NDMsLTE2NDMyMDgwMTIsODY4MjE3
+MzcwLC04Nzc1MzA5OTZdfQ==
 -->
