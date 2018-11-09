@@ -23,10 +23,10 @@
 - Edwar Samir Posada Murillo
 
 **Student researchers**
-- Brian F. Morales A. - mathematical engineering
-- Jose A. Carvajal B. - mathematical engineering
-- José O. Rengifo C. - systems engineering
-- Nicolás Restrepo L. - mathematical engineering
+- Brian F. Morales A. - Mathematical Engineering
+- Jose A. Carvajal B. - Mathematical Engineering
+- José O. Rengifo C. - Systems Engineering
+- Nicolás Restrepo L. - mathematical Engineering
 - Nicholas Rose
 
 ## Methods for the numerical solution of the wave equation
@@ -93,8 +93,8 @@ and the initial conditions
   - Pandas
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEzNzc3ODgyLC0yMDI2MDk1NzY3LC0xMD
-A3NDc4MDQwLC02MzY4ODIxNjEsMjcwNTUwMDc1LC0xMzQ4ODYz
-OTQzLC0xNjQzMjA4MDEyLDg2ODIxNzM3MCwtODc3NTMwOTk2XX
-0=
+eyJoaXN0b3J5IjpbLTgwMDY0NzA0NiwtMjAyNjA5NTc2NywtMT
+AwNzQ3ODA0MCwtNjM2ODgyMTYxLDI3MDU1MDA3NSwtMTM0ODg2
+Mzk0MywtMTY0MzIwODAxMiw4NjgyMTczNzAsLTg3NzUzMDk5Nl
+19
 -->
