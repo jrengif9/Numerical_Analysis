@@ -48,6 +48,21 @@ and the initial conditions
 #### Examples 
 
 1. 
+	- 
+	-  
+	- 
+2. 
+	- 
+	-  
+	- 
+3. 
+	- 
+	-  
+	- 
+4.
+6.  
+7.  
+
 
 ### Fourier Method
 
@@ -66,7 +81,7 @@ and the initial conditions
   - Pandas
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQxMTU1NzUwLDI3MDU1MDA3NSwtMTM0OD
-g2Mzk0MywtMTY0MzIwODAxMiw4NjgyMTczNzAsLTg3NzUzMDk5
-Nl19
+eyJoaXN0b3J5IjpbLTE4OTI1NTgyMjcsMjcwNTUwMDc1LC0xMz
+Q4ODYzOTQzLC0xNjQzMjA4MDEyLDg2ODIxNzM3MCwtODc3NTMw
+OTk2XX0=
 -->
