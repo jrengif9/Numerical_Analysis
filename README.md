@@ -48,7 +48,6 @@ and the initial conditions
 #### Examples 
 
 1. 
-2. 
 	- Approximate the solution to the wave equation.
 ![.](images/ExFD1a.png)
 
@@ -94,7 +93,7 @@ and the initial conditions
   - Pandas
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTE3MDcxODQsLTgwMDY0NzA0NiwtMj
+eyJoaXN0b3J5IjpbLTIwMDc2MTQyMDgsLTgwMDY0NzA0NiwtMj
 AyNjA5NTc2NywtMTAwNzQ3ODA0MCwtNjM2ODgyMTYxLDI3MDU1
 MDA3NSwtMTM0ODg2Mzk0MywtMTY0MzIwODAxMiw4NjgyMTczNz
 AsLTg3NzUzMDk5Nl19
