@@ -1,7 +1,9 @@
 # Numeric Methods for Solving Partial Differential Equations Applied to the Wave Equation
 
-Numerical Analysis**
+**Numerical Analysis**
+
 **Computer and Systems Department**
+
 **Ingeniery school**
 
 **Contents:**
@@ -38,6 +40,6 @@ Numerical Analysis**
   - Pandas
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODU1Mzg5MTYsODY4MjE3MzcwLC04Nz
-c1MzA5OTZdfQ==
+eyJoaXN0b3J5IjpbMTg2OTc4MzMyNCw4NjgyMTczNzAsLTg3Nz
+UzMDk5Nl19
 -->
