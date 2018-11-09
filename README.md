@@ -1,6 +1,31 @@
-# Numerical Analysis
+# Numeric Methods for Solving Partial Differential Equations Applied to the Wave Equation
 
----
+**Numerical Analysis**
+
+**Computer and Systems Department**
+
+**Ingeniery school**
+
+## Contents:
+
+- [Members](#Members)
+- [implemented technologies](#Implemented-technologies)
+	- Python v7
+	- SciPy ecosystem
+
+## Members
+
+**Teacher manager**
+- Edwar Samir Posada Murillo
+
+**Student researchers**
+- Brian F. Morales A.
+- Jose A. Carvajal B.
+- José O. Rengifo C.
+- Nicolás Restrepo L.
+- Nicholas Rose
+
+
 
 ## Implemented technologies
 
@@ -13,4 +38,8 @@
   - IPython
   - Sympy - [Symbolic Mathematics in Python]( https://www.scipy-lectures.org/advanced/sympy.html "Chapters")
   - Pandas
-- xlsxwrite [installation]( http://installion.co.uk/ubuntu/vivid/universe/p/python3-xlsxwriter/install/index.html "Ubuntu")
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2NDMyMDgwMTIsODY4MjE3MzcwLC04Nz
+c1MzA5OTZdfQ==
+-->
