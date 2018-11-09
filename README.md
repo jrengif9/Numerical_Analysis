@@ -50,7 +50,7 @@ and the initial conditions
 1. 
 	- Approximate the solution to the wave equation.
 ![.](images/ExFD1a.png)
-	-  Boundary conditions.
+	- Boundary conditions.
 ![.](images/ExFD1b.png)
 	- Initial conditions.
 ![.](images/ExFD1c.png)
