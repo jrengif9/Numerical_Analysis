@@ -35,11 +35,15 @@
 
 To approximate the solution to the wave equation
 
-[EqAproxFiniteDifference.png](https://github.com/jrengif9/Numerical_Analysis/blob/master/images/EqAproxFiniteDifference.png "EqAproxFiniteDifference.png")
+![approximate the solution](EqAproxFiniteDifference.png)
 
 subject to the boundary conditions
 
+![boundary conditions](EqConditionsFiniteDifference.png)
+
 and the initial conditions
+
+![initial conditions]()
 
 #### Examples 
 
@@ -62,6 +66,6 @@ and the initial conditions
   - Pandas
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5ODA4ODIwMiwtMTM0ODg2Mzk0MywtMT
+eyJoaXN0b3J5IjpbMTIyNTYxNjQxNywtMTM0ODg2Mzk0MywtMT
 Y0MzIwODAxMiw4NjgyMTczNzAsLTg3NzUzMDk5Nl19
 -->
