@@ -6,7 +6,7 @@
 
 **Ingeniery school**
 
-**Contents:**
+## Contents:
 
 - [Members](#Members)
 - [implemented technologies](#Implemented-technologies)
@@ -40,6 +40,6 @@
   - Pandas
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2OTc4MzMyNCw4NjgyMTczNzAsLTg3Nz
-UzMDk5Nl19
+eyJoaXN0b3J5IjpbLTE2NDMyMDgwMTIsODY4MjE3MzcwLC04Nz
+c1MzA5OTZdfQ==
 -->
