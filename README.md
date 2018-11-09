@@ -12,6 +12,7 @@
 - [implemented technologies](#Implemented-technologies)
 	- Python v7
 	- SciPy ecosystem
+- [Methods for the numerical solution of the wave equation](#Methodsfor the numerical solution of the wave equation)
 
 ## Members
 
@@ -25,13 +26,13 @@
 - Nicolás Restrepo L.
 - Nicholas Rose
 
-## Numerical Solutions 
+## Methods for the numerical solution of the wave equation
 
 ### Wave Equation Finite-Difference
 
-###
+### Finite Differences Method
 
-###
+### Fourier Method
 
 ## Implemented technologies
 
@@ -46,6 +47,6 @@
   - Pandas
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NDE1ODg2OSwtMTY0MzIwODAxMiw4Nj
-gyMTczNzAsLTg3NzUzMDk5Nl19
+eyJoaXN0b3J5IjpbLTEzNjYxMTkwMjUsLTE2NDMyMDgwMTIsOD
+Y4MjE3MzcwLC04Nzc1MzA5OTZdfQ==
 -->
