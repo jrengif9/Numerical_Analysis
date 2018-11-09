@@ -25,7 +25,13 @@
 - Nicolás Restrepo L.
 - Nicholas Rose
 
+## Numerical Solutions 
 
+###
+
+###
+
+###
 
 ## Implemented technologies
 
@@ -40,6 +46,6 @@
   - Pandas
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDMyMDgwMTIsODY4MjE3MzcwLC04Nz
-c1MzA5OTZdfQ==
+eyJoaXN0b3J5IjpbMTY0Mzc1NTc3OSwtMTY0MzIwODAxMiw4Nj
+gyMTczNzAsLTg3NzUzMDk5Nl19
 -->
