@@ -51,6 +51,7 @@ and the initial conditions
 	- Approximate the solution to the wave equation.
 ![.](images/ExFD1a.png)
 	- Boundary conditions.
+hola
 
 	- Initial conditions.
 ![.](images/ExFD1c.png)
@@ -91,8 +92,8 @@ and the initial conditions
   - Pandas
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDU3NzYxNDAsLTI2NzY5MDkwOCwtOD
-AwNjQ3MDQ2LC0yMDI2MDk1NzY3LC0xMDA3NDc4MDQwLC02MzY4
-ODIxNjEsMjcwNTUwMDc1LC0xMzQ4ODYzOTQzLC0xNjQzMjA4MD
-EyLDg2ODIxNzM3MCwtODc3NTMwOTk2XX0=
+eyJoaXN0b3J5IjpbNzk3NTIyNTk4LC0yNjc2OTA5MDgsLTgwMD
+Y0NzA0NiwtMjAyNjA5NTc2NywtMTAwNzQ3ODA0MCwtNjM2ODgy
+MTYxLDI3MDU1MDA3NSwtMTM0ODg2Mzk0MywtMTY0MzIwODAxMi
+w4NjgyMTczNzAsLTg3NzUzMDk5Nl19
 -->
