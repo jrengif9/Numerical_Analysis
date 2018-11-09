@@ -4,12 +4,12 @@ Numeric Methods for Solving Partial Differential Equations Applied to the Wave E
 
 **Contents:**
 
+- [Members](#Members)
 - [implemented technologies](#Implemented-technologies)
 	- Python v7
 	- SciPy ecosystem
-- 
 
----
+## 
 
 ## Implemented technologies
 
@@ -24,5 +24,6 @@ Numeric Methods for Solving Partial Differential Equations Applied to the Wave E
   - Pandas
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY4MjE3MzcwLC04Nzc1MzA5OTZdfQ==
+eyJoaXN0b3J5IjpbLTIwNTk2Mjc5MTUsODY4MjE3MzcwLC04Nz
+c1MzA5OTZdfQ==
 -->
