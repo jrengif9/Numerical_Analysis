@@ -27,7 +27,7 @@
 
 ## Numerical Solutions 
 
-###
+### Wave Equation Finite-Difference
 
 ###
 
@@ -46,6 +46,6 @@
   - Pandas
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0Mzc1NTc3OSwtMTY0MzIwODAxMiw4Nj
+eyJoaXN0b3J5IjpbMTA0NDE1ODg2OSwtMTY0MzIwODAxMiw4Nj
 gyMTczNzAsLTg3NzUzMDk5Nl19
 -->
