@@ -4,8 +4,6 @@
 **Computer and Systems Department**
 **Ingeniery school**
 
-computer and systems department
-
 **Contents:**
 
 - [Members](#Members)
@@ -40,6 +38,6 @@ computer and systems department
   - Pandas
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzQ0NzM5MzIsODY4MjE3MzcwLC04Nz
-c1MzA5OTZdfQ==
+eyJoaXN0b3J5IjpbMTA4MDM4ODMxNiw4NjgyMTczNzAsLTg3Nz
+UzMDk5Nl19
 -->
