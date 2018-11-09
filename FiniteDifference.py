@@ -6,20 +6,28 @@ from matplotlib.animation import FuncAnimation
 import pandas as pd
 import numpy as np
 
+
+print("WELCOME !!!")
+print("Wave Equation Finite-Difference")
+print("Software to approximate the solution to the wave equation")
+
+print("Please enter the values requested below.")
+
+
 x = Symbol("x")
 # INPUT. values that user have to enter manually
 f = input("Enter u(x,0): ")
 g = input("Enter du/dy(x,0): ")
-l = input("Enter endpoint: ")             # Endpont
-t = input("Enter Maximum Time: ")         # Maximun Time
-alpha = input("Enter alpha constan: ")    # constant: 1/v  v:propagation speed
-m = int(input("Enter m value: "))              # number of rows, 
-n = int(input("Enter n value: "))              # number of columns
+l = input("Enter endpoint: ")                    # Endpont
+t = input("Enter Maximum Time: ")                # Maximun Time
+alpha = eval(input("Enter alpha constant: "))    # constant: 1/v  v:propagation speed
+m = int(input("Enter m value: "))                # number of rows, 
+n = int(input("Enter n value: "))                # number of columns
 
 
 h = float(l)/float(m)
 k = float(t)/float(n)
-lam = (k*float(alpha))/h
+lam = (k*alpha)/h
 
 
 def evalfun(fun,num):
@@ -62,26 +70,32 @@ for j in range(0,n+1):
     for i in range(0,m+1):
         x = i*h
 
+excel_name = input("Enter the name you want for the .xlsx file:")
+
 #save the array in an .xlsx file
 df = pd.DataFrame (matrix)
-filepath = 'my_excel_file.xlsx'
+filepath = excel_name + '.xlsx'
 df.to_excel(filepath, index=False)
+
 
 #we create a figure and its axis.
 fig, ax = plt.subplots()
-xdata = zeros(m+1)                 # Create an array of zeros of size  m+1
+xdata = [0] * (m+1)                 # Create an array of zeros of size  m+1
 xi = 0
 for i in range(0,m+1):
     xdata[i] =xi
     xi += h                        # the distance between one dot an another
 
 
-ydata = zeros(m+1)                 # Create an array to the points in y axis
+ydata = [0] * (m+1)                 # Create an array to the points in y axis
 ln, = plt.plot([], [], 'r', animated=True)
 
+yn = 0 - (float(l) + 0.1)
+yp = float(l) + 0.1
+
 def init():
-    ax.set_xlim(0, 1)
-    ax.set_ylim(-1.1, 1.1)
+    ax.set_xlim(0, float(l))
+    ax.set_ylim(yn, yp)
     ln.set_data(xdata,ydata)
     return ln,
 
@@ -92,6 +106,14 @@ def update(frame):
     return ln,
 
 ani = FuncAnimation(fig, update, frames=n+1,
-                    init_func=init, blit=True, interval = 150,repeat=False)
+                    init_func=init, blit=True, interval = 500,repeat=False)
 plt.show()	
 
+print("Finished program!!!")
+
+print("\nDeveloped by:")
+print("Brian F. Morales A.")
+print("Jose A. Carvajal B.")
+print("José O. Rengifo C.")
+print("Nicolás Restrepo L.")
+print("Nicholas Rose")
