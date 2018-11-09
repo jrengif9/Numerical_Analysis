@@ -48,13 +48,14 @@ and the initial conditions
 #### Examples 
 
 1. 
-	- Approximate the solution to the wave equation
+2. 
+	- Approximate the solution to the wave equation.
 ![.](images/ExFD1a.png)
 
-	-  Boundary conditions
+	-  Boundary conditions.
 ![.](images/ExFD1b.png)
 
-	- Initial conditions
+	- Initial conditions.
 ![.](images/ExFD1c.png)
 
 2. 
@@ -93,8 +94,8 @@ and the initial conditions
   - Pandas
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMDY0NzA0NiwtMjAyNjA5NTc2NywtMT
-AwNzQ3ODA0MCwtNjM2ODgyMTYxLDI3MDU1MDA3NSwtMTM0ODg2
-Mzk0MywtMTY0MzIwODAxMiw4NjgyMTczNzAsLTg3NzUzMDk5Nl
-19
+eyJoaXN0b3J5IjpbLTE2OTE3MDcxODQsLTgwMDY0NzA0NiwtMj
+AyNjA5NTc2NywtMTAwNzQ3ODA0MCwtNjM2ODgyMTYxLDI3MDU1
+MDA3NSwtMTM0ODg2Mzk0MywtMTY0MzIwODAxMiw4NjgyMTczNz
+AsLTg3NzUzMDk5Nl19
 -->
