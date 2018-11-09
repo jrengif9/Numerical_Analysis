@@ -1,5 +1,7 @@
 # Numerical Analysis
 
+
+
 ---
 
 ## Implemented technologies
@@ -14,3 +16,6 @@
   - Sympy - [Symbolic Mathematics in Python]( https://www.scipy-lectures.org/advanced/sympy.html "Chapters")
   - Pandas
 - xlsxwrite [installation]( http://installion.co.uk/ubuntu/vivid/universe/p/python3-xlsxwriter/install/index.html "Ubuntu")
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTg3NzUzMDk5Nl19
+-->
