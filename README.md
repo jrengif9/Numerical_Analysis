@@ -2,6 +2,8 @@
 
 Numeric Methods for Solving Partial Differential Equations Applied to the Wave Equation
 
+**Contents:**
+
 ---
 
 ## Implemented technologies
@@ -17,5 +19,5 @@ Numeric Methods for Solving Partial Differential Equations Applied to the Wave E
   - Pandas
 - xlsxwrite [installation]( http://installion.co.uk/ubuntu/vivid/universe/p/python3-xlsxwriter/install/index.html "Ubuntu")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzYwMjMwNTksLTg3NzUzMDk5Nl19
+eyJoaXN0b3J5IjpbMTE4MTE5MTA2MSwtODc3NTMwOTk2XX0=
 -->
