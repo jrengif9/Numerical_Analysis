@@ -59,9 +59,15 @@ and the initial conditions
 	- 
 	-  
 	- 
-4.
-6.  
-7.  
+4. 
+	- 
+	-  
+	- 
+5.  
+	- 
+	-  
+	- 
+
 
 
 ### Fourier Method
@@ -81,7 +87,7 @@ and the initial conditions
   - Pandas
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTI1NTgyMjcsMjcwNTUwMDc1LC0xMz
-Q4ODYzOTQzLC0xNjQzMjA4MDEyLDg2ODIxNzM3MCwtODc3NTMw
-OTk2XX0=
+eyJoaXN0b3J5IjpbLTYzNjg4MjE2MSwyNzA1NTAwNzUsLTEzND
+g4NjM5NDMsLTE2NDMyMDgwMTIsODY4MjE3MzcwLC04Nzc1MzA5
+OTZdfQ==
 -->
