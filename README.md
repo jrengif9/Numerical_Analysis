@@ -1,6 +1,10 @@
 # Numeric Methods for Solving Partial Differential Equations Applied to the Wave Equation
 
+**Numerical Analysis**
+**Computer and Systems Department**
+**Ingeniery school**
 
+computer and systems department
 
 **Contents:**
 
@@ -12,10 +16,9 @@
 ## Members
 
 **Teacher manager**
+- Edwar Samir Posada Murillo
 
-- 
-
-**student researchers**
+**Student researchers**
 - Brian F. Morales A.
 - Jose A. Carvajal B.
 - José O. Rengifo C.
@@ -37,6 +40,6 @@
   - Pandas
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTI0NjE3ODksODY4MjE3MzcwLC04Nz
+eyJoaXN0b3J5IjpbLTEwNzQ0NzM5MzIsODY4MjE3MzcwLC04Nz
 c1MzA5OTZdfQ==
 -->
