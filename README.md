@@ -1,6 +1,6 @@
-# Numerical Analysis
+# Numeric Methods for Solving Partial Differential Equations Applied to the Wave Equation
 
-Numeric Methods for Solving Partial Differential Equations Applied to the Wave Equation
+
 
 **Contents:**
 
@@ -9,7 +9,16 @@ Numeric Methods for Solving Partial Differential Equations Applied to the Wave E
 	- Python v7
 	- SciPy ecosystem
 
-## 
+## Members
+
+**Students**
+- Brian F. Morales A.
+- Jose A. Carvajal B.
+- José O. Rengifo C.
+- Nicolás Restrepo L.
+- Nicholas Rose
+
+
 
 ## Implemented technologies
 
@@ -24,6 +33,6 @@ Numeric Methods for Solving Partial Differential Equations Applied to the Wave E
   - Pandas
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTk2Mjc5MTUsODY4MjE3MzcwLC04Nz
-c1MzA5OTZdfQ==
+eyJoaXN0b3J5IjpbMTkzNjUxNjEwMyw4NjgyMTczNzAsLTg3Nz
+UzMDk5Nl19
 -->
