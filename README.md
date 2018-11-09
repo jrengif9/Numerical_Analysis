@@ -1,6 +1,6 @@
 # Numerical Analysis
 
-
+Numeric Methods for Solving Partial Differential Equations Applied to the Wave Equation
 
 ---
 
@@ -17,5 +17,5 @@
   - Pandas
 - xlsxwrite [installation]( http://installion.co.uk/ubuntu/vivid/universe/p/python3-xlsxwriter/install/index.html "Ubuntu")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NzUzMDk5Nl19
+eyJoaXN0b3J5IjpbLTEyMzYwMjMwNTksLTg3NzUzMDk5Nl19
 -->
