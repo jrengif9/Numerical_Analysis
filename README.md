@@ -61,7 +61,12 @@ and the initial conditions
 
 2. 
 	- 
+	
+	![.](images/ExFD2a.png)
+
 	-  
+	
+	![.](images/ExFD1b.png)
 	- 
 3. 
 	- 
@@ -95,8 +100,9 @@ and the initial conditions
   - Pandas
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTEwODQ2MjIsLTI2NzY5MDkwOCwtOD
-AwNjQ3MDQ2LC0yMDI2MDk1NzY3LC0xMDA3NDc4MDQwLC02MzY4
-ODIxNjEsMjcwNTUwMDc1LC0xMzQ4ODYzOTQzLC0xNjQzMjA4MD
-EyLDg2ODIxNzM3MCwtODc3NTMwOTk2XX0=
+eyJoaXN0b3J5IjpbLTkyNjk3OTU0OCwtMTA1MTA4NDYyMiwtMj
+Y3NjkwOTA4LC04MDA2NDcwNDYsLTIwMjYwOTU3NjcsLTEwMDc0
+NzgwNDAsLTYzNjg4MjE2MSwyNzA1NTAwNzUsLTEzNDg4NjM5ND
+MsLTE2NDMyMDgwMTIsODY4MjE3MzcwLC04Nzc1MzA5OTZdfQ==
+
 -->
