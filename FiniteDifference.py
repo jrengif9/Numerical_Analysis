@@ -90,8 +90,8 @@ for i in range(0,m+1):
 ydata = [0] * (m+1)                 # Create an array to the points in y axis
 ln, = plt.plot([], [], 'r', animated=True)
 
-yn = 0 - (float(l) + 0.1)
-yp = float(l) + 0.1
+yn = 0 - (float(1.5) + 0.1)
+yp = float(1.5) + 0.1
 
 
 for j in range(0,n+1):
