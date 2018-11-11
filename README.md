@@ -59,6 +59,8 @@ and the initial conditions
 	
 	![.](images/ExFD1c.png)
 
+	-	Running the code
+
 
 2. 
 	- Approximate the solution to the wave equation.
@@ -72,6 +74,10 @@ and the initial conditions
 	- Initial conditions.
 	
 	![.](images/ExFD1c.png)
+
+	- Running the code
+
+
 3. 
 	- 
 	-  
@@ -104,9 +110,9 @@ and the initial conditions
   - Pandas
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NjQzMDgxMCwtMTA1MTA4NDYyMiwtMj
-Y3NjkwOTA4LC04MDA2NDcwNDYsLTIwMjYwOTU3NjcsLTEwMDc0
-NzgwNDAsLTYzNjg4MjE2MSwyNzA1NTAwNzUsLTEzNDg4NjM5ND
-MsLTE2NDMyMDgwMTIsODY4MjE3MzcwLC04Nzc1MzA5OTZdfQ==
+eyJoaXN0b3J5IjpbLTEwMDUxNTEwMTAsLTEwNTEwODQ2MjIsLT
+I2NzY5MDkwOCwtODAwNjQ3MDQ2LC0yMDI2MDk1NzY3LC0xMDA3
+NDc4MDQwLC02MzY4ODIxNjEsMjcwNTUwMDc1LC0xMzQ4ODYzOT
+QzLC0xNjQzMjA4MDEyLDg2ODIxNzM3MCwtODc3NTMwOTk2XX0=
 
 -->
