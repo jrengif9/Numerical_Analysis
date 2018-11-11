@@ -80,7 +80,7 @@ and the initial conditions
 
 	- Running the code
 	
-	![.](images/ExFD1d.png)
+	![.](images/ExFD2d.png)
 
 
 3. 
@@ -115,8 +115,9 @@ and the initial conditions
   - Pandas
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc3MjE4MDU0LC0xMDUxMDg0NjIyLC0yNj
-c2OTA5MDgsLTgwMDY0NzA0NiwtMjAyNjA5NTc2NywtMTAwNzQ3
-ODA0MCwtNjM2ODgyMTYxLDI3MDU1MDA3NSwtMTM0ODg2Mzk0My
-wtMTY0MzIwODAxMiw4NjgyMTczNzAsLTg3NzUzMDk5Nl19
+eyJoaXN0b3J5IjpbMTc5MzEwNTcwMSw5NzcyMTgwNTQsLTEwNT
+EwODQ2MjIsLTI2NzY5MDkwOCwtODAwNjQ3MDQ2LC0yMDI2MDk1
+NzY3LC0xMDA3NDc4MDQwLC02MzY4ODIxNjEsMjcwNTUwMDc1LC
+0xMzQ4ODYzOTQzLC0xNjQzMjA4MDEyLDg2ODIxNzM3MCwtODc3
+NTMwOTk2XX0=
 -->
