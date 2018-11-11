@@ -60,6 +60,9 @@ and the initial conditions
 	![.](images/ExFD1c.png)
 
 	-	Running the code
+	
+	![.](images/ExFD1d.png)
+
 
 
 2. 
@@ -76,6 +79,8 @@ and the initial conditions
 	![.](images/ExFD1c.png)
 
 	- Running the code
+	
+	![.](images/ExFD1d.png)
 
 
 3. 
@@ -110,9 +115,8 @@ and the initial conditions
   - Pandas
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDUxNTEwMTAsLTEwNTEwODQ2MjIsLT
-I2NzY5MDkwOCwtODAwNjQ3MDQ2LC0yMDI2MDk1NzY3LC0xMDA3
-NDc4MDQwLC02MzY4ODIxNjEsMjcwNTUwMDc1LC0xMzQ4ODYzOT
-QzLC0xNjQzMjA4MDEyLDg2ODIxNzM3MCwtODc3NTMwOTk2XX0=
-
+eyJoaXN0b3J5IjpbOTc3MjE4MDU0LC0xMDUxMDg0NjIyLC0yNj
+c2OTA5MDgsLTgwMDY0NzA0NiwtMjAyNjA5NTc2NywtMTAwNzQ3
+ODA0MCwtNjM2ODgyMTYxLDI3MDU1MDA3NSwtMTM0ODg2Mzk0My
+wtMTY0MzIwODAxMiw4NjgyMTczNzAsLTg3NzUzMDk5Nl19
 -->
