@@ -72,11 +72,11 @@ and the initial conditions
 
 	-  Boundary conditions.
 	
-	![.](images/ExFD1b.png)
+	![.](images/ExFD2b.png)
 	
 	- Initial conditions.
 	
-	![.](images/ExFD1c.png)
+	![.](images/ExFD2c.png)
 
 	- Running the code
 	
@@ -115,9 +115,9 @@ and the initial conditions
   - Pandas
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MzEwNTcwMSw5NzcyMTgwNTQsLTEwNT
-EwODQ2MjIsLTI2NzY5MDkwOCwtODAwNjQ3MDQ2LC0yMDI2MDk1
-NzY3LC0xMDA3NDc4MDQwLC02MzY4ODIxNjEsMjcwNTUwMDc1LC
-0xMzQ4ODYzOTQzLC0xNjQzMjA4MDEyLDg2ODIxNzM3MCwtODc3
-NTMwOTk2XX0=
+eyJoaXN0b3J5IjpbNzE2NTgwNzc1LDk3NzIxODA1NCwtMTA1MT
+A4NDYyMiwtMjY3NjkwOTA4LC04MDA2NDcwNDYsLTIwMjYwOTU3
+NjcsLTEwMDc0NzgwNDAsLTYzNjg4MjE2MSwyNzA1NTAwNzUsLT
+EzNDg4NjM5NDMsLTE2NDMyMDgwMTIsODY4MjE3MzcwLC04Nzc1
+MzA5OTZdfQ==
 -->
