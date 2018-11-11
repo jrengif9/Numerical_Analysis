@@ -93,6 +93,23 @@ ln, = plt.plot([], [], 'r', animated=True)
 yn = 0 - (float(l) + 0.1)
 yp = float(l) + 0.1
 
+
+for j in range(0,n+1):
+    for i in range(0,m+1):
+        ydata[i] = matrix[i][j]
+    plt.plot(xdata, ydata, "r")
+
+# naming the x axis 
+plt.xlabel('x') 
+# naming the y axis 
+plt.ylabel('displacement') 
+# giving a title to my graph 
+plt.title('Wave Equation Finite-Difference') 
+plt.show()
+
+
+
+"""
 def init():
     ax.set_xlim(0, float(l))
     ax.set_ylim(yn, yp)
@@ -106,7 +123,7 @@ def update(frame):
     return ln,
 
 ani = FuncAnimation(fig, update, frames=n+1,
-                    init_func=init, blit=True, interval = 500,repeat=False)
+                    init_func=init, blit=True, interval = 200,repeat=False)
 plt.show()	
 
 print("Finished program!!!")
@@ -117,3 +134,5 @@ print("Jose A. Carvajal B.")
 print("José O. Rengifo C.")
 print("Nicolás Restrepo L.")
 print("Nicholas Rose")
+"""
+
