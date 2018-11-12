@@ -117,9 +117,21 @@ and the initial conditions
 	![.](images/ExFD4d.png)
 
 5.  
-	- 
-	-  
-	- 
+	- Approximate the solution to the wave equation.
+	
+	![.](images/ExFD5a.png)
+
+	- Boundary conditions.
+	
+	![.](images/ExFD5b.png)
+	
+	- Initial conditions.
+	
+	![.](images/ExFD5c.png)
+	
+	- Running the code.
+	
+	![.](images/ExFD5d.png)
 
 
 
@@ -140,10 +152,10 @@ and the initial conditions
   - Pandas
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mzg5MjE5NzQsOTQ2OTQ2NDA1LC0xMj
-kzNDY0NjM2LDExODM5NTE2MzYsNzE2NTgwNzc1LDk3NzIxODA1
-NCwtMTA1MTA4NDYyMiwtMjY3NjkwOTA4LC04MDA2NDcwNDYsLT
-IwMjYwOTU3NjcsLTEwMDc0NzgwNDAsLTYzNjg4MjE2MSwyNzA1
-NTAwNzUsLTEzNDg4NjM5NDMsLTE2NDMyMDgwMTIsODY4MjE3Mz
-cwLC04Nzc1MzA5OTZdfQ==
+eyJoaXN0b3J5IjpbMzA5MDU4MywtMTQzODkyMTk3NCw5NDY5ND
+Y0MDUsLTEyOTM0NjQ2MzYsMTE4Mzk1MTYzNiw3MTY1ODA3NzUs
+OTc3MjE4MDU0LC0xMDUxMDg0NjIyLC0yNjc2OTA5MDgsLTgwMD
+Y0NzA0NiwtMjAyNjA5NTc2NywtMTAwNzQ3ODA0MCwtNjM2ODgy
+MTYxLDI3MDU1MDA3NSwtMTM0ODg2Mzk0MywtMTY0MzIwODAxMi
+w4NjgyMTczNzAsLTg3NzUzMDk5Nl19
 -->
