@@ -117,6 +117,7 @@ and the initial conditions
 	
 	- Running the code.
 	
+	![.](images/ExFD4da.png)
 	![.](images/ExFD4d.png)
 
 5.  
@@ -134,6 +135,7 @@ and the initial conditions
 	
 	- Running the code.
 	
+	![.](images/ExFD5a.png)
 	![.](images/ExFD5d.png)
 
 
@@ -155,11 +157,11 @@ and the initial conditions
   - Pandas
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTEzMjczNDYsLTg4NTIxNzk4OCwtMT
-QzODkyMTk3NCw5NDY5NDY0MDUsLTEyOTM0NjQ2MzYsMTE4Mzk1
-MTYzNiw3MTY1ODA3NzUsOTc3MjE4MDU0LC0xMDUxMDg0NjIyLC
-0yNjc2OTA5MDgsLTgwMDY0NzA0NiwtMjAyNjA5NTc2NywtMTAw
-NzQ3ODA0MCwtNjM2ODgyMTYxLDI3MDU1MDA3NSwtMTM0ODg2Mz
-k0MywtMTY0MzIwODAxMiw4NjgyMTczNzAsLTg3NzUzMDk5Nl19
+eyJoaXN0b3J5IjpbMTUwMjE4MDQzMywtODg1MjE3OTg4LC0xND
+M4OTIxOTc0LDk0Njk0NjQwNSwtMTI5MzQ2NDYzNiwxMTgzOTUx
+NjM2LDcxNjU4MDc3NSw5NzcyMTgwNTQsLTEwNTEwODQ2MjIsLT
+I2NzY5MDkwOCwtODAwNjQ3MDQ2LC0yMDI2MDk1NzY3LC0xMDA3
+NDc4MDQwLC02MzY4ODIxNjEsMjcwNTUwMDc1LC0xMzQ4ODYzOT
+QzLC0xNjQzMjA4MDEyLDg2ODIxNzM3MCwtODc3NTMwOTk2XX0=
 
 -->
