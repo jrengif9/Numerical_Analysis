@@ -135,9 +135,8 @@ and the initial conditions
 	
 	- Running the code.
 	
-	![.](images/ExFD5a.png)
+	![.](images/ExFD5da.png)
 	![.](images/ExFD5d.png)
-
 
 
 ### Fourier Method
@@ -157,7 +156,7 @@ and the initial conditions
   - Pandas
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMjE4MDQzMywtODg1MjE3OTg4LC0xND
+eyJoaXN0b3J5IjpbMTA0ODA4MjAxMywtODg1MjE3OTg4LC0xND
 M4OTIxOTc0LDk0Njk0NjQwNSwtMTI5MzQ2NDYzNiwxMTgzOTUx
 NjM2LDcxNjU4MDc3NSw5NzcyMTgwNTQsLTEwNTEwODQ2MjIsLT
 I2NzY5MDkwOCwtODAwNjQ3MDQ2LC0yMDI2MDk1NzY3LC0xMDA3
