@@ -19,7 +19,7 @@ x = Symbol("x")
 f = input("Enter u(x,0): ")
 g = input("Enter du/dy(x,0): ")
 l = input("Enter endpoint: ")                    # Endpont
-t = input("Enter Maximum Time: ")                # Maximun Time
+t = eval(input("Enter Maximum Time: "))                # Maximun Time
 alpha = eval(input("Enter alpha constant: "))    # constant: 1/v  v:propagation speed
 m = int(input("Enter m value: "))                # number of rows, 
 n = int(input("Enter n value: "))                # number of columns
@@ -90,10 +90,10 @@ for i in range(0,m+1):
 ydata = [0] * (m+1)                 # Create an array to the points in y axis
 ln, = plt.plot([], [], 'r', animated=True)
 
-yn = 0 - (float(1.5) + 0.1)
-yp = float(1.5) + 0.1
+yn = 0 - (float(1.5)) #+ 0.1)
+yp = float(1.5) #+ 0.1
 
-
+"""
 for j in range(0,n+1):
     for i in range(0,m+1):
         ydata[i] = matrix[i][j]
@@ -105,6 +105,7 @@ plt.xlabel('x')
 plt.ylabel('displacement') 
 # giving a title to my graph 
 plt.title('Wave Equation Finite-Difference') 
+ax.set_ylim(yn, yp)
 plt.show()
 
 
@@ -134,5 +135,9 @@ print("Jose A. Carvajal B.")
 print("José O. Rengifo C.")
 print("Nicolás Restrepo L.")
 print("Nicholas Rose")
-"""
 
+
+
+"""
+\frac{\partial ^ 2 u}{\partial t ^ 2}-522^2 \frac{\partial ^ 2 u}{\partial x ^ 2}=0, \quad 0<x<1,\;0<t
+"""
