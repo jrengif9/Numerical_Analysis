@@ -109,8 +109,13 @@ and the initial conditions
 	![.](images/ExFD4b.gif)
 	
 	- Initial conditions.
-	-
+	
+	![.](images/ExFD4c.gif)
+	
 	- Running the code.
+	
+	![.](images/ExFD4d.png)
+
 5.  
 	- 
 	-  
@@ -135,9 +140,9 @@ and the initial conditions
   - Pandas
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NzM0MzU2NywxMTgzOTUxNjM2LDcxNj
-U4MDc3NSw5NzcyMTgwNTQsLTEwNTEwODQ2MjIsLTI2NzY5MDkw
-OCwtODAwNjQ3MDQ2LC0yMDI2MDk1NzY3LC0xMDA3NDc4MDQwLC
-02MzY4ODIxNjEsMjcwNTUwMDc1LC0xMzQ4ODYzOTQzLC0xNjQz
-MjA4MDEyLDg2ODIxNzM3MCwtODc3NTMwOTk2XX0=
+eyJoaXN0b3J5IjpbLTEyOTM0NjQ2MzYsMTE4Mzk1MTYzNiw3MT
+Y1ODA3NzUsOTc3MjE4MDU0LC0xMDUxMDg0NjIyLC0yNjc2OTA5
+MDgsLTgwMDY0NzA0NiwtMjAyNjA5NTc2NywtMTAwNzQ3ODA0MC
+wtNjM2ODgyMTYxLDI3MDU1MDA3NSwtMTM0ODg2Mzk0MywtMTY0
+MzIwODAxMiw4NjgyMTczNzAsLTg3NzUzMDk5Nl19
 -->
