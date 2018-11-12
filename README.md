@@ -61,7 +61,7 @@ and the initial conditions
 
 	-	Running the code
 	
-	![.](images/ExFD1d.png)
+	![.](images/ExFD1da.png)
 	![.](images/ExFD1d.png)
 
 
@@ -81,6 +81,7 @@ and the initial conditions
 
 	- Running the code
 	
+	![.](images/ExFD2da.png)
 	![.](images/ExFD2d.png)
 
 
@@ -99,6 +100,7 @@ and the initial conditions
 	
 	- Running the code
 	
+	![.](images/ExFD3da.png)
 	![.](images/ExFD3d.png)
 4. 
 	- Approximate the solution to the wave equation.
@@ -153,11 +155,11 @@ and the initial conditions
   - Pandas
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM3MzQxNTU0LC04ODUyMTc5ODgsLTE0Mz
-g5MjE5NzQsOTQ2OTQ2NDA1LC0xMjkzNDY0NjM2LDExODM5NTE2
-MzYsNzE2NTgwNzc1LDk3NzIxODA1NCwtMTA1MTA4NDYyMiwtMj
-Y3NjkwOTA4LC04MDA2NDcwNDYsLTIwMjYwOTU3NjcsLTEwMDc0
-NzgwNDAsLTYzNjg4MjE2MSwyNzA1NTAwNzUsLTEzNDg4NjM5ND
-MsLTE2NDMyMDgwMTIsODY4MjE3MzcwLC04Nzc1MzA5OTZdfQ==
+eyJoaXN0b3J5IjpbLTE4OTEzMjczNDYsLTg4NTIxNzk4OCwtMT
+QzODkyMTk3NCw5NDY5NDY0MDUsLTEyOTM0NjQ2MzYsMTE4Mzk1
+MTYzNiw3MTY1ODA3NzUsOTc3MjE4MDU0LC0xMDUxMDg0NjIyLC
+0yNjc2OTA5MDgsLTgwMDY0NzA0NiwtMjAyNjA5NTc2NywtMTAw
+NzQ3ODA0MCwtNjM2ODgyMTYxLDI3MDU1MDA3NSwtMTM0ODg2Mz
+k0MywtMTY0MzIwODAxMiw4NjgyMTczNzAsLTg3NzUzMDk5Nl19
 
 -->
