@@ -93,7 +93,7 @@ ln, = plt.plot([], [], 'r', animated=True)
 yn = 0 - (float(1.5)) #+ 0.1)
 yp = float(1.5) #+ 0.1
 
-"""
+
 for j in range(0,n+1):
     for i in range(0,m+1):
         ydata[i] = matrix[i][j]
@@ -135,7 +135,7 @@ print("Jose A. Carvajal B.")
 print("José O. Rengifo C.")
 print("Nicolás Restrepo L.")
 print("Nicholas Rose")
-
+"""
 
 
 """
